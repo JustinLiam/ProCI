@@ -125,11 +125,13 @@ All experiments are conducted on 2$\times$NVIDIA H800 GPUs (80 GB each) with CUD
 ## 5. Citation
 
 ```latex
-@inproceedings{li2026proci,
-  title={Prototype-based Causal Intervention for Multi-Label Image Classification},
-  author={Li, Yanmin and Mao, Zhilong and Wang, Mao and Liu, Lihua and Wu, Jibing and Bao, Weidong},
-  booktitle={CVPR},
-  year={2026}
+@InProceedings{Li_2026_CVPR,
+    author    = {Li, Yanmin and Mao, Zhilong and Wang, Mao and Liu, Lihua and Wu, Jibing and Bao, Weidong},
+    title     = {Prototype-based Causal Intervention for Multi-Label Image Classification},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {24738-24747}
 }
 ```
 
